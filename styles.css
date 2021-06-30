@@ -21,8 +21,26 @@ button{
 	background-color: hsl(0, 0%, 95%);
 	font-family: "Lexend Deca";
 	padding: 10px 20px;
-	border: none;
+	border: solid 2px;
 	border-radius: 25px;
+}
+.orange:hover{
+	background-color: hsl(31, 77%, 52%);
+	color: hsl(0, 0%, 95%);
+	border: solid 2px;
+	cursor: pointer;
+}
+.cyan:hover{
+	background-color: hsl(184, 100%, 22%);
+	color: hsl(0, 0%, 95%);
+	border: solid 2px;
+	cursor: pointer;
+}
+.dark-cyan:hover{
+	background-color: hsl(179, 100%, 13%);
+	color: hsl(0, 0%, 95%);
+	border: solid 2px;
+	cursor: pointer;
 }
 .main{
 	margin-bottom: 50px;
@@ -87,8 +105,26 @@ button{
 	background-color: hsl(0, 0%, 95%);
 	font-family: "Lexend Deca";
 	padding: 10px 20px;
-	border: none;
+	border: solid 2px;
 	border-radius: 25px;
+}
+.orange:hover{
+	background-color: hsl(31, 77%, 52%);
+	color: hsl(0, 0%, 95%);
+	border: solid 2px;
+	cursor: pointer;
+}
+.cyan:hover{
+	background-color: hsl(184, 100%, 22%);
+	color: hsl(0, 0%, 95%);
+	border: solid 2px;
+	cursor: pointer;
+}
+.dark-cyan:hover{
+	background-color: hsl(179, 100%, 13%);
+	color: hsl(0, 0%, 95%);
+	border: solid 2px;
+	cursor: pointer;
 }
 .main{
 	margin-bottom: 50px;
